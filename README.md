@@ -1,3 +1,4 @@
-# double_pendulum
+Double Pendulum Solution
 
-Simply testing stuff...
+NOTEBOOKS: [double_pendulum.ipynb](http://nbviewer.jupyter.org/github/equivin/double_pendulum/double_pendulum.ipynb)
+
