@@ -1,4 +1,4 @@
 Double Pendulum Solution
 
-NOTEBOOKS: [double_pendulum.ipynb](http://nbviewer.jupyter.org/github/equivin/double_pendulum/double_pendulum.ipynb)
+NOTEBOOKS: [double_pendulum.ipynb](http://nbviewer.jupyter.org/github/Equivin/double_pendulum/blob/master/double_pendulum.ipynb)
 
